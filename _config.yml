@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate 
 title: this is a personal profile about boguer!💗💗
+description: this is a personal profile about boguer!💗💗
 plugins: 
     - jemoji 
 url: "https://boguer31.github.io/" 
