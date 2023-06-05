@@ -3,8 +3,8 @@ Hi! This is a brief introduction of my hobby and some daily pices.
 # Welcome to my github!! 
 and here I want to share some 
 
-Hi! I'm your new friend studying in ** Hokkaido University😄**. You can find some more details in our media communication graduated [school webpage](https://www.imc.hokudai.ac.jp/)......
-Once you have finished with me, you can create new files by opening the *file explorer* on the left corner of the navigation bar.
+Hi! I'm your new friend studying in ** Hokkaido University😄**. You can find some more details in our media communication graduated [school webpage](https://www.imc.hokudai.ac.jp/)...
+Once you have finished with me, you can create new files by opening the *file explorer* on the left corner of the navigation bar..
 
 # working out
 
