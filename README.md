@@ -1,9 +1,10 @@
 # Hi! this is boguer's home page!❤❤️
 Hi! This is a brief introduction of my hobby and some daily pices.
-# Welcome to my github!!
+# Welcome to my github!! 
+and here I want to share some 
 
-Hi! I'm your new friend  **on github**. 
-Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi! I'm your new friend  **studying in Hokkaido University😄**. You can find some more details in our media communication grad.uated school webpage
+Once you have finished with me, you can create new files by opening the *file explorer* on the left corner of the navigation bar.
 
 # working out
 
@@ -47,7 +48,7 @@ StackEdit extends the standard Markdown syntax by adding extra **Markdown extens
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |是                        |HTML                         |
+|                |like                        |dislike                         |
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
