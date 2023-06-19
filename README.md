@@ -4,10 +4,11 @@ Hi! This is a brief introduction to my hobby and some daily pieces.
 
 # Welcome to my GitHub  
 
-and here I want to share some daily pieces and hobbies with all of you😊 ～～
-You can find me on [**RED**](https://www.xiaohongshu.com/user/profile/5bff9f8944363b0946ea0a56?xhsshare=CopyLink&appuid=5bff9f8944363b0946ea0a56&apptime=1687152407), which is a popular social media used by Chinese younger generations.
-I am also interested in writing and reading. If you are willing to read my essays and movie reviews， please check my [WeChat public account](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=149300591) ![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/xjtu_logo.png)
-
+and here I want to share some daily lives and hobbies with all of you😊 ～～
+trilingual guy：🇨🇳➕🇺🇸➕🇯🇵 these days studying 🇰🇷～ （hope I can successfully learn Korean🙏）
+You can find me on [**RED**](https://www.xiaohongshu.com/user/profile/5bff9f8944363b0946ea0a56?xhsshare=CopyLink&appuid=5bff9f8944363b0946ea0a56&apptime=1687152407) and[Weibo](https://weibo.com/u/3212139411), which is a popular social media used by Chinese younger generations.
+Here is my [Instagram account](https://instagram.com/zjr_boguer?igshid=MmIzYWVlNDQ5Yg==) Where you can have a look at my life in Japan~
+I am also interested in writing and reading. If you are willing to read my essays and movie reviews， please check my [WeChat public account](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=149300591) 
 
 My Education Experiences
 ======
@@ -18,6 +19,8 @@ Here is an image of my graduated school:![image](https://github.com/boguer31/bog
 MY HOBBIES
 ======
 - Sports: I am very active and like outdoor sports. Favorite: **Badminton🏸️**, **Hiking(whether mountain climbing or forest park💗)**,also *swimming* and *working out*. I have been working out for 3 years and I really enjoy my time in the gym!
+- Cooking and Baking: I LOVE tasting delicious food and pastry all over the world, so that is maybe the main reason I put on weight although I'm keeping on working out ~~(😅😅)~~. I have found a lot of recipes for bread such as **Bagels**, **Brezens**, **Salty rolls**, **toast**, etc.
+- Traveling: I love to go everywhere interesting all over the world. So far I've been to San Francisco, New York, Boston, and Washington in the **USA**; Tokyo, Osaka, Kyoto, Nagoya, Hokkaido,**Japan**; HongKong, Macau, China and almost one-third of cities inside of **mainland China**✌️. I am used to writing my travel journal and articles after each of my travels.
 
 ## Create files and folders
 
@@ -32,30 +35,12 @@ Publishing in StackEdit makes it simple for you to publish online your files. On
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
 
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
 > **Note:** The **Publish now** button is disabled if your file has not been published yet.
 
 ## Manage file publication
 
 Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
 
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
 |                |like                        |dislike                         |
 |----------------|-------------------------------|-----------------------------|
