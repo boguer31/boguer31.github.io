@@ -1,16 +1,13 @@
 # Hi! this is boguer's home page!❤❤️
 
-Hi! This is a brief introduction of my hobby and some daily pices.
+Hi! This is a brief introduction to my hobby and some daily pieces.
 
-# Welcome to my github  
+# Welcome to my GitHub  
 
 and here I want to share some 
 
-Hi! I'm your new friend studying in **Hokkaido University😄**. You can find some more details in our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/)Also, if you willing to check more education experience of me, please check the following URL about [XI'an Jiaotong Unibersity](http://sfs.xjtu.edu.cn/) (also called XJTU)!
-Here is a image of my school:
-![alt text][logo]
-
-[logo]: <https://xiaoppx.github.io/images/common/xjtu_logo_and_name.png"Logo> Title Text 2"
+Hi! I'm your new friend studying at **Hokkaido University😄**. You can find some more details in our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/)Also, if you are willing to check more education experience of me, please check the following URL about [XI'an Jiaotong Unibersity](http://sfs.xjtu.edu.cn/) (also called XJTU)!
+Here is an image of my school:![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/xjtu_logo.png)
 
 # working out
 
@@ -18,10 +15,10 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 ## Create files and folders
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+The file explorer is accessible using the button in the left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 # Publication
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress**, and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
 > Before starting to publish, you must link an account in the **Publish** sub-menu.
 
