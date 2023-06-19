@@ -17,7 +17,7 @@ My Education Experiences
 ======
 Hi! I'm your new friend studying at **Hokkaido University😄**. You can find some more details on our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/)
 
-Also, if you are willing to check more education experience of me, please check the following URL about [XI'an Jiaotong Unibersity](http://sfs.xjtu.edu.cn/) (also called XJTU)!
+Also, if you are willing to check more education experience of me, please check the following URL about [XI'an Jiaotong University](http://sfs.xjtu.edu.cn/) (also called XJTU)!
 Here is an image of my graduated school:![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/xjtu_logo.png)
 
 MY HOBBIES
