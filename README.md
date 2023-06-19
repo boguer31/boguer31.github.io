@@ -4,14 +4,15 @@ Hi! This is a brief introduction to my hobby and some daily pieces.
 
 # Welcome to my GitHub  
 
-and here I want to share some 
+and here I want to share some daily pieces and hobbies with all of you😊 ～～
 
-Hi! I'm your new friend studying at **Hokkaido University😄**. You can find some more details in our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/)Also, if you are willing to check more education experience of me, please check the following URL about [XI'an Jiaotong Unibersity](http://sfs.xjtu.edu.cn/) (also called XJTU)!
-Here is an image of my school:![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/xjtu_logo.png)
+Hi! I'm your new friend studying at **Hokkaido University😄**. You can find some more details on our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/)
+Also, if you are willing to check more education experience of me, please check the following URL about [XI'an Jiaotong Unibersity](http://sfs.xjtu.edu.cn/) (also called XJTU)!
+Here is an image of my graduated school:![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/xjtu_logo.png)
 
-# working out
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+MY HOBBIES
+======
+- Sports: I am very active and like outdoor sports. Favorite: **Badminton🏸️**, **Hiking(whether mountain climbing or forest park💗)**,also *swimming* and *working out*. I have been working out for 3 years and I really enjoy my time in the gym!
 
 ## Create files and folders
 
