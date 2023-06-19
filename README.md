@@ -5,14 +5,18 @@ Hi! This is a brief introduction to my hobby and some daily pieces.
 # Welcome to my GitHub  
 
 and here I want to share some daily lives and hobbies with all of you😊 ～～
-trilingual guy：🇨🇳➕🇺🇸➕🇯🇵 these days studying 🇰🇷～ （hope I can successfully learn Korean🙏）
-You can find me on [**RED**](https://www.xiaohongshu.com/user/profile/5bff9f8944363b0946ea0a56?xhsshare=CopyLink&appuid=5bff9f8944363b0946ea0a56&apptime=1687152407) and[Weibo](https://weibo.com/u/3212139411), which is a popular social media used by Chinese younger generations.
-Here is my [Instagram account](https://instagram.com/zjr_boguer?igshid=MmIzYWVlNDQ5Yg==) Where you can have a look at my life in Japan~
-I am also interested in writing and reading. If you are willing to read my essays and movie reviews， please check my [WeChat public account](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=149300591) 
+> Trilingual guy：🇨🇳➕🇺🇸➕🇯🇵 these days studying 🇰🇷～ （hope I can successfully learn Korean🙏）
+
+> You can find me on [**RED**](https://www.xiaohongshu.com/user/profile/5bff9f8944363b0946ea0a56?xhsshare=CopyLink&appuid=5bff9f8944363b0946ea0a56&apptime=1687152407) and[Weibo](https://weibo.com/u/3212139411), which is a popular social media used by Chinese younger generations.
+
+> Here is my [Instagram account](https://instagram.com/zjr_boguer?igshid=MmIzYWVlNDQ5Yg==) Where you can have a look at my life in Japan~
+
+>I am also interested in writing and reading. If you are willing to read my essays and movie reviews， please check my [WeChat public account](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=149300591) 
 
 My Education Experiences
 ======
 Hi! I'm your new friend studying at **Hokkaido University😄**. You can find some more details on our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/)
+
 Also, if you are willing to check more education experience of me, please check the following URL about [XI'an Jiaotong Unibersity](http://sfs.xjtu.edu.cn/) (also called XJTU)!
 Here is an image of my graduated school:![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/xjtu_logo.png)
 
