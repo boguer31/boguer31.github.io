@@ -26,9 +26,6 @@ MY HOBBIES
 - Cooking🍲 and Baking🥐: I LOVE tasting delicious food and pastry all over the world, so that is maybe the main reason I put on weight although I'm keeping on working out 2 years ago ~~(😅😅)~~. I have found a lot of recipes for bread such as **Bagels🥯**, **Brezens🥨**, **Salty rolls**, **toast🍞**, etc.
 - Traveling: I love to go everywhere interesting all over the world. So far I've been to San Francisco, New York, Boston, and Washington in the **USA**; Tokyo, Osaka, Kyoto, Nagoya, and Hokkaido in **Japan**; **HongKong, Macau** China and almost one-third of cities inside of **mainland China**✌️. I am used to writing my travel journal and articles after each of my travels.
 
-## Create files and folders
-
-The file explorer is accessible using the button in the left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 # Publication
 
 Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress**, and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
