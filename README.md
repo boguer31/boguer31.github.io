@@ -23,7 +23,7 @@ Here is an image of my graduated school:![image](https://github.com/boguer31/bog
 MY HOBBIES
 ======
 - Sports: I am very active and like outdoor sports. Favorite: **Badminton🏸️**, **🏃Hiking(whether mountain climbing or forest park💗)**, also *swimming🏊* and *working out🏋️*. I have been working out for 3 years and I really enjoy my time in the gym!
-- Cooking🍲 and Baking🥐: I LOVE tasting delicious food and pastry all over the world, so that is maybe the main reason I put on weight although I'm keeping on working out ~~(😅😅)~~. I have found a lot of recipes for bread such as **Bagels🥯**, **Brezens🥨**, **Salty rolls**, **toast🍞**, etc.
+- Cooking🍲 and Baking🥐: I LOVE tasting delicious food and pastry all over the world, so that is maybe the main reason I put on weight although I'm keeping on working out 2 years ago ~~(😅😅)~~. I have found a lot of recipes for bread such as **Bagels🥯**, **Brezens🥨**, **Salty rolls**, **toast🍞**, etc.
 - Traveling: I love to go everywhere interesting all over the world. So far I've been to San Francisco, New York, Boston, and Washington in the **USA**; Tokyo, Osaka, Kyoto, Nagoya, Hokkaido,**Japan**; **HongKong, Macau**, China and almost one-third of cities inside of **mainland China**✌️. I am used to writing my travel journal and articles after each of my travels.
 
 ## Create files and folders
