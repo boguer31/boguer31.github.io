@@ -1,6 +1,6 @@
 # Hi! this is boguer's home page!❤❤️
 
-Hi! This is a brief introduction to my hobby and some daily pieces.
+おはよう！ This is a brief introduction to my hobby and some daily pieces.
 
 # Welcome to my GitHub  
 
