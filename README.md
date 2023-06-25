@@ -6,7 +6,10 @@
 
 and here I want to share some daily lives and hobbies with all of you😊 ～～
 > Trilingual guy：🇨🇳➕🇺🇸➕🇯🇵 these days studying 🇰🇷～ （hope I can successfully learn Korean🙏）
-> ISFJ➡️INTJ
+
+> My personality：
+> ISFJ![alt text](https://github.com/boguer31/boguer31.github.io/blob/main/picture/IMG_1656.jpg "Logo Title Text 1")➡️INTJ![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/IMG_1657.jpg)
+
 > You can find me on [**RED**](https://www.xiaohongshu.com/user/profile/5bff9f8944363b0946ea0a56?xhsshare=CopyLink&appuid=5bff9f8944363b0946ea0a56&apptime=1687152407) and[Weibo](https://weibo.com/u/3212139411), which is a popular social media used by Chinese younger generations.
 
 > Here is my [Instagram account](https://instagram.com/zjr_boguer?igshid=MmIzYWVlNDQ5Yg==) Where you can have a look at my life in Japan~
@@ -28,10 +31,11 @@ MY HOBBIES
   some images:![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/IMG_1655.JPG)
 - Traveling: I love to go everywhere interesting all over the world. So far I've been to San Francisco, New York, Boston, and Washington in the **USA**; Tokyo, Osaka, Kyoto, Nagoya, and Hokkaido in **Japan**; **HongKong, Macau** China and almost one-third of cities inside of **mainland China**✌️. I am used to writing my travel journal and articles after each of my travels.
 
-
-|                |like                        |dislike                         |
+WISH LIST
+======
+|                |to do                        |wish list                         |
 |----------------|-------------------------------|-----------------------------|
-|Foods|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Hobbies          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|travel |`a new FUJI camera`            |`'Isn't this fun?'`            |
+|Hobbies          |`Isn't this fun?'`            |`'Isn't this fun?'`           |
+|          |`-- is en-dash, --- is em-dash`|-- `is en-dash, --- is em-dash`|
 
