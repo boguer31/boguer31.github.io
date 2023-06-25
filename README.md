@@ -24,7 +24,7 @@ MY HOBBIES
 ======
 - Sports: I am very active and like outdoor sports. Favorite: **Badminton🏸️**, **🏃Hiking(whether mountain climbing or forest park💗)**, also *swimming🏊* and *working out🏋️*. I have been working out for 3 years and I really enjoy my time in the gym!
 - Cooking🍲 and Baking🥐: I LOVE tasting delicious food and pastry all over the world, so that is maybe the main reason I put on weight although I'm keeping on working out 2 years ago ~~(😅😅)~~. I have found a lot of recipes for bread such as **Bagels🥯**, **Brezens🥨**, **Salty rolls🥐**, **toast🍞**, etc.
-  some images:
+  some images:![image]()
 - Traveling: I love to go everywhere interesting all over the world. So far I've been to San Francisco, New York, Boston, and Washington in the **USA**; Tokyo, Osaka, Kyoto, Nagoya, and Hokkaido in **Japan**; **HongKong, Macau** China and almost one-third of cities inside of **mainland China**✌️. I am used to writing my travel journal and articles after each of my travels.
 
 
