@@ -6,7 +6,7 @@
 
 and here I want to share some daily lives and hobbies with all of you😊 ～～
 > Trilingual guy：🇨🇳➕🇺🇸➕🇯🇵 these days studying 🇰🇷～ （hope I can successfully learn Korean🙏）
-
+> ISFJ➡️INTJ
 > You can find me on [**RED**](https://www.xiaohongshu.com/user/profile/5bff9f8944363b0946ea0a56?xhsshare=CopyLink&appuid=5bff9f8944363b0946ea0a56&apptime=1687152407) and[Weibo](https://weibo.com/u/3212139411), which is a popular social media used by Chinese younger generations.
 
 > Here is my [Instagram account](https://instagram.com/zjr_boguer?igshid=MmIzYWVlNDQ5Yg==) Where you can have a look at my life in Japan~
@@ -15,7 +15,7 @@ and here I want to share some daily lives and hobbies with all of you😊 ～～
 
 My Education Experiences
 ======
-Hi! I'm your new friend studying at **Hokkaido University😄**. You can find some more details on our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/):![image]()
+Hi! I'm your new friend studying at **Hokkaido University😄**. You can find some more details on our media communication [graduated school webpage](https://www.imc.hokudai.ac.jp/):![image](https://github.com/boguer31/boguer31.github.io/blob/main/picture/%E6%88%AA%E5%B1%8F2023-06-25%2020.46.34.png)
 
 
 Also, if you are willing to check more education experience of me, please check the following URL about [XI'an Jiaotong University](http://sfs.xjtu.edu.cn/) (also called XJTU)!
