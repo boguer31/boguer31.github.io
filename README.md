@@ -24,23 +24,8 @@ MY HOBBIES
 ======
 - Sports: I am very active and like outdoor sports. Favorite: **Badminton🏸️**, **🏃Hiking(whether mountain climbing or forest park💗)**, also *swimming🏊* and *working out🏋️*. I have been working out for 3 years and I really enjoy my time in the gym!
 - Cooking🍲 and Baking🥐: I LOVE tasting delicious food and pastry all over the world, so that is maybe the main reason I put on weight although I'm keeping on working out 2 years ago ~~(😅😅)~~. I have found a lot of recipes for bread such as **Bagels🥯**, **Brezens🥨**, **Salty rolls🥐**, **toast🍞**, etc.
+  some images:
 - Traveling: I love to go everywhere interesting all over the world. So far I've been to San Francisco, New York, Boston, and Washington in the **USA**; Tokyo, Osaka, Kyoto, Nagoya, and Hokkaido in **Japan**; **HongKong, Macau** China and almost one-third of cities inside of **mainland China**✌️. I am used to writing my travel journal and articles after each of my travels.
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress**, and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
 
 
 |                |like                        |dislike                         |
